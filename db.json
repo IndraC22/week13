@@ -1,0 +1,29 @@
+{
+  "articles": [
+    {
+      "title": "New Research Suggests Starfish Bodies Are Really Just Heads",
+      "author": " Marcela Bonet",
+      "id": 9
+    },
+    {
+      "title": "Camera Footage Captures Octopuses Throwing Debris At Each Other",
+      "author": "Ashley Alvarado",
+      "id": 10
+    },
+    {
+      "title": "Octopuses Lead Hunting Parties And \"Punch\" Non-Helpers",
+      "author": "Sarah Shabbar",
+      "id": 11
+    },
+    {
+      "title": "Get Ready To Welcome The Year Of The Dragon!",
+      "author": "Kavi Dolasia",
+      "id": 12
+    },
+    {
+      "title": "Metal Detectorists Unearth Ancient Silver Coins Worth Millions",
+      "author": "Alvaro Aragon ",
+      "id": 13
+    }
+  ]
+}
